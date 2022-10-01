@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>OWASP Risk Assessment Calculator</h1>
+  <h1>Risk Assessment Calculator</h1>
 
   <h4>🧮 An online calculator to assess the risk of web vulnerabilities based on OWASP Risk Assessment.</h4>
 
